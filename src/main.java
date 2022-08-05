@@ -18,8 +18,8 @@ public class main {
                 if (a > b)
                     a = a - b;
                 else
-                    b = b - a;
-            }
-        }System.out.println("Greatest common factor: " + a);
+                    b = b - a;}
+            System.out.println("Greatest common factor: " + a);
+        }
     }
 }
